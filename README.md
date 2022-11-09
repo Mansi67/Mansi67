@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mansi67 (Mansi Srivastava)
 - 👀 I’m interested in Data Science and Machine Learning 
-- 🌱 I’m currently learning Machine Learning and doing small projects for hands-on practice
+- 🌱 I’m currently learning Machine Learning and Deep Learning and doing small projects for hands-on practice
 - 📫 My LinkedIn --> https://www.linkedin.com/in/mansi-srivastava-bb8356170/
 
 <!---
